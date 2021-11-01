@@ -1,6 +1,6 @@
 # Travel Universe
 
-This is the website's live demo [Create React App](https://travel-agency-1c186.web.app/).
+This is the website's [live demo](https://travel-agency-1c186.web.app/).
 
 ## Available Scripts
 
