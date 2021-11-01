@@ -1,0 +1,28 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.form input{
+    margin-bottom: 10px;
+    width: 40%;
+    padding: 5px;
+    border: 1px solid gray;
+}
+.form textarea{
+    margin-bottom: 10px;
+    width: 40%;
+    padding: 5px;
+    border: 1px solid gray;
+}
+
+@media (max-width: 768px) {
+    .form input{
+        width: 80%;
+    }
+    .form textarea{
+        width: 80%;
+    }
+}

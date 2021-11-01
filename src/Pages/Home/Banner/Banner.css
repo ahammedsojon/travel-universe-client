@@ -1,0 +1,8 @@
+.banner{
+    background: url('https://image.freepik.com/free-photo/tourist-making-photo-nature_1150-7742.jpg') no-repeat top center;
+    background-size: cover;
+    padding: 200px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

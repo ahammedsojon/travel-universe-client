@@ -1,0 +1,28 @@
+.service img{
+    height: 249px;
+    object-fit: cover;
+    width: 100%;
+    max-width: 100%;
+}
+.service img{
+    height: 244px;
+    object-fit: cover;
+    max-width: 100%;
+    width: 100%;
+}
+.service .img{
+    position: relative;
+}
+.service .img::before{
+    transition: all .3s ease;
+    content: '';
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.service:hover .img::before{
+    background-color: rgba(0, 0, 0, .4);
+}

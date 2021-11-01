@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Turkey",
+    "place": "Grand Turkey",
+    "description": "Tourism in Turkey is well developed, which means great plane connections. Turkey has airports all over the country, the biggest one being Ataturk airport in Istanbul that connects you to the whole world. Travelling to Turkey is a real paradise for travellers. It is diverse and mysterious so everyone will find their perfect place to drink their coffee or tea.",
+    "duration": "8",
+    "price": 2000,
+    "img": "https://media.istockphoto.com/photos/sunset-in-istanbul-picture-id527863033?k=20&m=527863033&s=612x612&w=0&h=NkaFbdB7fItuTv2jaQ65D5KtfeQ5ygbeMKZSEFY4tcE=",
+    "rating": 5
+  },
+  {
+    "country": "Spain",
+    "place": "Grand Spain Mardid",
+    "description": "Spain, a country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. Capital city Madrid is home to the Royal Palace and Prado museum, housing works by European masters. Segovia has a medieval castle (the Alcázar) and an intact Roman aqueduct. Catalonia’s capital, Barcelona, is defined by Antoni Gaudí’s whimsical modernist landmarks like the Sagrada Família church. ",
+    "duration": "9",
+    "price": 3000,
+    "img": "https://media.istockphoto.com/photos/plaa-despanya-long-exposure-at-sunset-in-barcelona-picture-id1133826808?k=20&m=1133826808&s=612x612&w=0&h=x0ww2dvnsaU7lgtURaWWHIpB8Y4DPg-pNLzGDbvINik=",
+    "rating": 4.5
+  },
+  {
+    "country": "Austria, Switzerland",
+    "place": "Swiss Alps Trips",
+    "description": "Switzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps. Its cities contain medieval quarters, with landmarks like capital Bern’s Zytglogge clock tower and Lucerne’s wooden chapel bridge. The country is also known for its ski resorts and hiking trails. Banking and finance are key industries, and Swiss watches and chocolate are world renowned.",
+    "duration": "10",
+    "price": 4000,
+    "img": "https://media.istockphoto.com/photos/aerial-view-of-leman-lake-geneva-city-in-switzerland-picture-id530487878?k=20&m=530487878&s=612x612&w=0&h=TJNIOi9GYAnks9tl9RjvlYKdtBcWQVlPB-ZiPiT8ryE=",
+    "rating": 4
+  },
+  {
+    "country": "Italy",
+    "place": "Grand Italy",
+    "description": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s David and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital. ",
+    "duration": "8",
+    "price": 3000,
+    "img": "https://media.istockphoto.com/photos/view-of-venices-grand-canal-picture-id911570904?k=20&m=911570904&s=612x612&w=0&h=WfYzUvSKhPNB1iNA_3Ki34axMZ9oEoMrFAYrW92xajA=",
+    "rating": 4
+  },
+  {
+    "country": "England, Scotland, Wales",
+    "place": "UK Trips",
+    "description": "England is a country that is part of the United Kingdom. It shares land borders with Wales to its west and Scotland to its north. The Irish Sea lies northwest of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south.",
+    "duration": "13",
+    "price": 5000,
+    "img": "https://media.istockphoto.com/photos/panoramic-view-to-the-skyline-of-london-united-kingdom-during-sunset-picture-id1284903727?k=20&m=1284903727&s=612x612&w=0&h=QuYnLugto28mwqnc_NCnsc8rKbJOxJx5rKK4OE_0GRc=",
+    "rating": 5
+  },
+  {
+    "country": "Slovenisa, Hungary, Czech",
+    "place": "East Europe",
+    "description": "Hungary is a landlocked country in Central Europe. Its capital, Budapest, is bisected by the Danube River. Its cityscape is studded with architectural landmarks from Buda’s medieval Castle Hill and grand neoclassical buildings along Pest’s Andrássy Avenue to the 19th-century Chain Bridge. Turkish and Roman influence on Hungarian culture includes the popularity of mineral spas, including at thermal Lake Hévíz.",
+    "duration": "10",
+    "price": 3000,
+    "img": "https://media.istockphoto.com/photos/budapest-night-lights-picture-id492313394?k=20&m=492313394&s=612x612&w=0&h=NXy2bVTvpX5NnC6cq6sOaw7fqragV2Vl6IzmQvOaoYE=",
+    "rating": 4.5
+  }
+]
