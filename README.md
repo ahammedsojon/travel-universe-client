@@ -2,7 +2,7 @@
 
 This is the website's [live demo](https://travel-agency-1c186.web.app/).
 
-## Available Scripts
+## About this project
 
 - This is a travel agency website.
 - We provided travel services all over the world.
