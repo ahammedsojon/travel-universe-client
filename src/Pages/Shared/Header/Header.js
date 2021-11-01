@@ -20,10 +20,7 @@ const Header = () => {
                             <div>
                                 {/* Website Logo */}
                                 <NavLink to="/" className="flex items-center py-4 px-2">
-                                    {/* <img src="https://i.ibb.co/MnGQDTZ/logo.png" alt="Logo" className="max-w-full h-12 w-12 mr-2 rounded-full object-cover" /> */}
-                                    <span className="text-red-700 text-4xl mr-2">
-                                        <i class="fas fa-globe-americas"></i>
-                                    </span>
+                                    <img src="https://i.ibb.co/w640Z8b/logo.png" alt="Logo" className="max-w-full h-10 w-10 mr-2 rounded-full object-cover" />
                                     <span className="font-semibold text-lg  text-red-900">TravelUniverse</span>
                                 </NavLink>
                             </div>
